@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "538891233506",
+    "project_id": "field-right-mobile",
+    "storage_bucket": "field-right-mobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538891233506:android:defd278d35bd9e496196bb",
+        "android_client_info": {
+          "package_name": "com.gersonsalvador.fieldrightmobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "538891233506-ltltcndj70eg38oaecrbivlpmgmiu57h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_8l87Ywz2rpZwU_U8Sf6nl79JLk3qrgw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "538891233506-ltltcndj70eg38oaecrbivlpmgmiu57h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
