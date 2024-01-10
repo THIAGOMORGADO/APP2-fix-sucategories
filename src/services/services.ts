@@ -1,5 +1,6 @@
 import Axios  from "axios";
 
+
 export const api = Axios.create({
-    baseURL: '',
+    baseURL: process.env.ApiBase,
 })
